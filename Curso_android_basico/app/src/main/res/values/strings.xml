@@ -1,0 +1,45 @@
+<resources>
+
+    <!--    IMC_APP-->
+    <string name="app_name">app1</string>
+    <string name="male">Hombre</string>
+    <string name="female">Mujer</string>
+    <string name="height">Altura</string>
+    <string name="weight">Peso</string>
+    <string name="age">Edad</string>
+    <string name="calculate">Calcular</string>
+    <string name="re_calculate">Re-calcular</string>
+
+    <string name="error">Error</string>
+
+    <string name="peso_bajo">Peso bajo</string>
+    <string name="peso_bajo_description">Estas por debajo de tu peso optimo</string>
+
+    <string name="peso_normal">Peso normal</string>
+    <string name="peso_normal_description">Estas en tu peso optimo</string>
+
+    <string name="sobrepeso">Sobrepeso</string>
+    <string name="sobrepeso_description">Estas por encima de tu peso optimo</string>
+
+    <string name="obesidad">Obesidad</string>
+    <string name="obesidad_description">Estas muy por encima de tu peso optimo</string>
+
+
+    <!--    TODO_APP-->
+    <string name="todo_title">Bienvenido, Jhon</string>
+    <string name="categories">Categorias</string>
+    <string name="todo_task">Tareas</string>
+    <string name="todo_dialog_add_task">Añade la tarea</string>
+    <string name="todo_dialog_business">Negocios</string>
+    <string name="todo_dialog_personal">Personal</string>
+    <string name="todo_dialog_other">Otros</string>
+    <string name="todo_dialog_button">Crear tarea</string>
+
+<!--    Settings-->
+    <string name="title_dark_mode">Dark mode</string>
+    <string name="info_dark_mode">Turn on dark mode for change visual aspect</string>
+    <string name="title_bluetooth">Bluetooth</string>
+    <string name="info_bluetooth">Turn on Bluetooth to connect nearby devices</string>
+    <string name="title_volume">Volume up</string>
+    <string name="call_vibration">Call vibration</string>
+</resources>
